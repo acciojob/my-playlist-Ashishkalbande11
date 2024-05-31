@@ -45,6 +45,11 @@
 	margin-bottom:20px;
 	
 }
+.none{
+	text-decoration-line:none;
+	background-color:white;
+	color:black;
+}
 .song-name{
 	background-color:white;
 	margin-left: 10px;
