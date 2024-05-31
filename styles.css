@@ -1,1 +1,51 @@
-/*  your css code here. If applicable */
+/*  your css code here. If applicabl*/
+*{
+	background-color:#cccccc
+}
+.text{
+	text-align:center;
+	background:transparent;
+}
+.song-list{
+	width:90%;
+	margin:auto;
+	border: 2px solid black;
+	background-color: white;	
+	border-radius:10px
+}
+.song-list>ul{
+	background-color:white;
+}
+.song-list >ul>li{
+	list-style-type:none;
+	background-color:white;
+	font-size:20px
+}
+.player{
+	width:80%;
+	margin:auto;
+	display: flex;
+	flex-direction:column;
+	justify-content:center;
+	/* align-items:center; */
+	border: 2px solid black;
+	background-color: white;
+	border-radius: 10px;
+}
+.vid{
+	height: 500px;
+	margin-top:30px;
+	margin-bottom:30px;
+	background-color:white;
+}
+.aud{
+	width:95%;
+	margin: auto;
+	background-color: white;
+	margin-bottom:20px;
+	
+}
+.song-name{
+	background-color:white;
+	margin-left: 10px;
+}
