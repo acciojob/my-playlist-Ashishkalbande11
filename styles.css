@@ -32,13 +32,13 @@
 	background-color: white;
 	border-radius: 10px;
 }
-.vid{
+.player_one{
 	height: 500px;
 	margin-top:30px;
 	margin-bottom:30px;
 	background-color:white;
 }
-.aud{
+.player_two{
 	width:95%;
 	margin: auto;
 	background-color: white;
